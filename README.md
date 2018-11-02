@@ -4,7 +4,7 @@ This is an online store project based on free PSD template. It uses the follow
 
 # Demo
 
-See the demo version at this [link](https://affectionate-snyder-c9bfc8.netlify.com/)
+See the demo version at this [link](https://inspiring-edison-321424.netlify.com/)
 
 # Project initialization
 
